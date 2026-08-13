@@ -31,3 +31,5 @@ Develop SQL-based analytics to deliver detailed insights into:
 3. **Sales Trends**
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
+
+### Primary Source:- Data With Barra.
